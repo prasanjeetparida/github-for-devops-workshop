@@ -22,6 +22,6 @@ git branch -M main
 git push -u origin main
 git push origin main
 
-I would like to add some new command.
+I would like to add some new commands.
 
 
